@@ -1,10 +1,10 @@
 {
   "url": "https://nyala777.com/",
-  "title": "Apkku",
+  "title": "Apk Kibo",
   "enablePullToRefresh": true,
   "enableFileUpload": true,
   "enableNotifications": true,
-  "userAgent": "ApkkuWebview/1.0 (Android)",
+  "userAgent": "Apkkibo/1.0 (Android)",
   "backgroundColor": "#FFFFFF",
   "splashDuration": 2000
 }
